@@ -1,3 +1,7 @@
 /include/ "system-conf.dtsi"
 / {
 };
+
+&qspi {
+	is-dual = <0x00>;
+};
