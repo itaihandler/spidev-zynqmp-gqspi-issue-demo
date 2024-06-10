@@ -1,0 +1,8 @@
+/.statistics
+/.Xil/*
+/gen-machineconf.log.old
+/plnxtool.conf
+/xilinx-zcu102.conf
+/configs/Kconfig*
+/rootfsconfigs/Kconfig*
+/rootfsconfigs/user-rootfsconfig
